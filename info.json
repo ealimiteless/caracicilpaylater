@@ -1,7 +1,4 @@
-{
-  "app_name": "Info Pinjol & Solusi Cerdas",
-  "description": "Kumpulan artikel edukasi seputar pinjaman online, cara daftar, dan penanganan risiko gagal bayar.",
-  "articles": [
+[
     {
       "id": 1,
       "title": "Mengenal Ekosistem Pinjol Legal OJK di Indonesia",
