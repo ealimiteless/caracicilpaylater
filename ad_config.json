@@ -1,8 +1,19 @@
 {
-  "isAdsEnabled": true,
-  "appOpenAdUnitId": "ca-app-pub-3940256099942544/9257395921",
-  "bannerAdUnitId": "ca-app-pub-3940256099942544/6300978111",
-  "interstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
-  "nativeAdUnitId": "ca-app-pub-3940256099942544/2247696110",
-  "rewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917"
+  "ad_status": {
+    "is_global_ad_enabled": true,
+    "show_app_open": true,
+    "show_interstitial": true,
+    "show_rewarded": true,
+    "show_native": true
+  },
+  "ad_units": {
+    "app_open_id": "ca-app-pub-3940256099942544/9257395921",
+    "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+    "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+    "native_id": "ca-app-pub-3940256099942544/2247696110"
+  },
+  "ad_settings": {
+    "interstitial_click_interval": 3,
+    "native_ad_index_frequency": 5
+  }
 }
