@@ -1,7 +1,4 @@
-{
-  "app_name": "Panduan DANA Cicil Lengkap",
-  "description": "Kumpulan artikel panduan untuk aktivasi dan penggunaan DANA Cicil.",
-  "articles": [
+[
     {
       "id": 1,
       "title": "Mengenal DANA Cicil: Solusi Pembayaran Masa Kini",
