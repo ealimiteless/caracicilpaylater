@@ -6,11 +6,4 @@
     "native": "ca-app-pub-6335103216414556/9628353867",
     "app_open": "ca-app-pub-6335103216414556/7002190525",
     "rewarded": "ca-app-pub-6335103216414556/1941435532"
-  },
-  "logic": {
-    "interstitial_interval": 2,
-    "native_in_guide": true,
-    "app_open_enabled": true,
-    "rewarded_for_premium": true
   }
-}
